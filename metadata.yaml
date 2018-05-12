@@ -1,5 +1,8 @@
 _repo: The-Story-of-the-Malakand-Field-Force--An-Episode-of-Frontier-War_9404
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Churchill, Winston
@@ -18,6 +21,8 @@ description: "The Story of the Malakand Field Force: An Episode of Frontier War 
   \ is dedicated to General Bindon Blood.\nThe story of the campaign and Churchill's\
   \ part in it is told in Churchill's First War: Young Winston and the Fight Against\
   \ the Taliban (2013) by Con Coughlin.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9404#The-Story-of-the-Malakand-Field-Force--An-Episode-of-Frontier-War
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
